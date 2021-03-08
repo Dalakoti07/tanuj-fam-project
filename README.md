@@ -6,7 +6,9 @@
 [ ] events details like description, photos, comments etc
 
 
-## Todos
+## Phases of developement
 
 [ ] Simple static site data present in html
-[ ] 
+[ ] Put data rendering in javascript 
+[ ] Add backend no static data
+[ ] Convert it to react App, allow users to add themselves into the app
